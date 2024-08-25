@@ -5,7 +5,7 @@ This is a mini version of vertical iphone calculator. (There is also horizontal,
 
 
 ## Deployment 
-I'm planning to release it as .exe and google play in the near future
+APK
 
 
 ## Technologies Used
