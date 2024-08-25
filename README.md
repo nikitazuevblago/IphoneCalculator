@@ -18,3 +18,8 @@ Kotlin (jetpack compose)
 git clone git@github.com:nikitazuevblago/IphoneCalculator.git
 ```
 shift+f10 (Android Studio)
+
+## Possible problems 
+The app is adapted only for certain resolution.
+
+![Picture of screen parameters](ScreenParams.png)
